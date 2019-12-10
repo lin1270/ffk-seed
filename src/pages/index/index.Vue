@@ -3,7 +3,6 @@
     <div class="aaa">gg</div>
     <div class="bbb">gg</div>
     <div class="testimg"> </div>
-    <HelloWorld />
   </div>
 </template>
 
